@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hongjie Chen
 
-<!--
-**HJChen-acct/HJChen-acct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal academic site for Hongjie Chen, Ph.D. candidate in Accounting at The Paul Merage School
+of Business, University of California, Irvine.
 
-Here are some ideas to get you started:
+**Live at <https://USERNAME.github.io>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research on financial accounting and reporting, with a focus on the unintended consequences of
+regulatory change.
+
+## Contents
+
+```
+index.html      Home, about, and contact
+research.html   Research agenda, papers, and conferences
+teaching.html   Teaching philosophy, courses, and evaluations
+assets/         Stylesheet and images
+```
+
+Static HTML and CSS. No build step and no dependencies, served directly by GitHub Pages.
+
+## Contact
+
+<hongjic3@uci.edu>

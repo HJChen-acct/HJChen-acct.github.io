@@ -3,8 +3,6 @@
 Personal academic site for Hongjie Chen, Ph.D. candidate in Accounting at The Paul Merage School
 of Business, University of California, Irvine.
 
-**Live at <https://USERNAME.github.io>**
-
 Research on financial accounting and reporting, with a focus on the unintended consequences of
 regulatory change.
 
